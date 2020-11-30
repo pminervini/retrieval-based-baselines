@@ -5,4 +5,4 @@ tqdm
 scipy
 nltk
 elasticsearch
-pexpect==4.2.1
+pexpect
